@@ -124,8 +124,6 @@ suitability for any purpose.
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#0088FF</string>
 			</dict>
@@ -215,8 +213,6 @@ suitability for any purpose.
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#80FCFF</string>
 			</dict>
